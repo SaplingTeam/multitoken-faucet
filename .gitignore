@@ -1,0 +1,22 @@
+# files containing keys
+.env
+
+# VS code
+.VSCode*
+
+# npm 
+node_modules
+
+# hardhat compiler outputs
+artifacts
+cache
+
+# solidity-docgen
+docs/
+
+# solidity coverage
+coverage
+coverage.json
+
+#hardhat script outputs
+scripts/data/wallets.json
