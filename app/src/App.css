@@ -1,0 +1,31 @@
+.main-container {
+  background-color: rgb(231, 235, 240);
+}
+
+.content {
+  padding: 0.5rem 0.5rem;
+  width: 60%;
+  align-self: center;
+}
+
+.banner-error {
+  height: 2.5rem;
+  text-align: center;
+  background-color:#df4242;
+  color: white;
+}
+
+.padding_0_5_rem {
+  padding: 0.5rem 0.5rem;
+}
+
+.right-align-content {
+  margin-left: auto;
+}
+
+.action-button {
+  min-height: 0;
+  min-width: 0;
+  height: 2.2rem;
+  width: 8rem;
+}
