@@ -1,0 +1,9 @@
+{
+  "APP_NETWORK_ID": 69,
+  "APP_NETWORK_ID_HEX": "0x45",
+  "tokens": [
+    {
+      "address": "0x9376AC65E32418BffF3aF931dCDC782ecd91A557"
+    }
+  ]
+}
