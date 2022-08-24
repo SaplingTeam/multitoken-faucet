@@ -11,7 +11,7 @@ function ProblemBanner(props) {
   } else if (props.isWrongNetwork) {
     return (
       <div className="banner-error">
-        <Typography className="padding_0_5_rem">Switch to Kovan Test Network</Typography>
+        <Typography className="padding_0_5_rem">Switch to Polygon Mumbai test Network</Typography>
       </div>
     );
   }
