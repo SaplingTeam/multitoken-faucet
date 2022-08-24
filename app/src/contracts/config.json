@@ -1,9 +1,9 @@
 {
-  "APP_NETWORK_ID": 69,
-  "APP_NETWORK_ID_HEX": "0x45",
+  "APP_NETWORK_ID": 80001,
+  "APP_NETWORK_ID_HEX": "0x13881",
   "tokens": [
     {
-      "address": "0x9376AC65E32418BffF3aF931dCDC782ecd91A557"
+      "address": "0xD0B3a7f531030dc19651f9F6b31Fc63B47334E86"
     }
   ]
 }
