@@ -1,7 +1,7 @@
 {
   "networks": {
-    "69": {
-      "address": "0xBd2f514940d50676EEB438C9a44B1a7844B44aA3"
+    "80001": {
+      "address": "0x122eD38f41f12d3e7EAb3B5287Ab25773a6744F2"
     }
   },
   "abi": [
